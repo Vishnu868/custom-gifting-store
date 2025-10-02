@@ -1,4 +1,4 @@
-# BrandingDelight — Custom Gifting & 3D Preview E-commerce
+# BrandingDelight — Custom Gifting E-commerce
 
 [![Website ready](https://img.shields.io/badge/status-ready-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]()
@@ -55,3 +55,7 @@ branding-delight/
 └─ server/ 
 ├─ app.js
 └─ routes/
+
+## WEBSITE
+
+[![Website](https://img.shields.io/badge/Live%20Website-BrandingDelight-brightgreen)](https://brandingdelight.com)
