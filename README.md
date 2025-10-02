@@ -21,13 +21,12 @@
 
 - Browse curated product categories (Backpacks, Electronics, Clothing, Bodycare, Hampers, Custom Cards).
 - Upload or design custom artwork and preview using 3D visualization.
-- Add to cart, checkout, and order confirmation (placeholder payment flow).
-- Admin product management (images, price, variants, branding options).
+- Admin product management
 - Responsive design for mobile & desktop.
 
 ---
 
-##  Tech Stack (suggested)
+##  Tech Stack 
 
 
 - Frontend: React
