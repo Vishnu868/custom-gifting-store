@@ -39,23 +39,6 @@
 
 ---
 
-## 📁 Repo Structure (example)
-
-branding-delight/
-├─ README.md
-├─ package.json
-├─ public/
-│ └─ index.html
-├─ src/
-│ ├─ components/
-│ ├─ pages/
-│ ├─ services/
-│ ├─ assets/
-│ └─ threejs/ 
-└─ server/ 
-├─ app.js
-└─ routes/
-
 ## WEBSITE
 
 [![Website](https://img.shields.io/badge/Live%20Website-BrandingDelight-brightgreen)](https://brandingdelight.com)
