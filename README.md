@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Quick Overview
+##  Quick Overview
 
 - Tailored for personalized gifting and corporate branding.
 - Real-time 3D visualization for live product previews.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧾 Features
+##  Features
 
 - Browse curated product categories (Backpacks, Electronics, Clothing, Bodycare, Hampers, Custom Cards).
 - Upload or design custom artwork and preview using 3D visualization.
@@ -27,20 +27,31 @@
 
 ---
 
-## 🛠️ Tech Stack (suggested)
+##  Tech Stack (suggested)
 
-> Replace / adapt according to your implementation
 
-- Frontend: React (Create React App / Vite) or Next.js
-- 3D Preview: Three.js or ModelViewer (glTF/OBJ)
-- Backend: Node.js + Express or Firebase Functions / Flask (if you prefer Python)
-- Database: Firebase Firestore / MongoDB / PostgreSQL
-- Storage: Cloudinary (images & previews) or AWS S3
-- Authentication: Firebase Auth or JWT
-- Payment (placeholder): Razorpay / Stripe integration
-- Deployment: Vercel / Netlify (frontend), Heroku / Render / Cloud Run (backend)
+- Frontend: React
+- 3D Preview: Three.js
+- Backend: Node.js + Express
+- Database: Firebase Firestore
+- Authentication: Firebase Auth
+- Deployment: Netlify
 
 ---
 
 ## 📁 Repo Structure (example)
 
+branding-delight/
+├─ README.md
+├─ package.json
+├─ public/
+│ └─ index.html
+├─ src/
+│ ├─ components/
+│ ├─ pages/
+│ ├─ services/
+│ ├─ assets/
+│ └─ threejs/ 
+└─ server/ 
+├─ app.js
+└─ routes/
